@@ -23,3 +23,9 @@ go get -u github.com/gorilla/mux
 ```bash
 go run main.go
 ```
+
+## Build Project
+
+```bash
+go build hello_world.go
+```
