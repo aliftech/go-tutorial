@@ -29,3 +29,9 @@ go run main.go
 ```bash
 go build hello_world.go
 ```
+
+## Running Build Project
+
+```bash
+./hello_world.exe
+```
